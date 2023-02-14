@@ -24,7 +24,9 @@ Client (MemberService) -------------->  interface(MemberRepository)    <--------
 
 
 
-
+IoC 컨테이너
+제어권이 넘어 가는 것
+요즘은 DI컨테이너라고 말한다.
 
 
 
